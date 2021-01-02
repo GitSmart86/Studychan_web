@@ -1,0 +1,1 @@
+python app_django/manage.py runserver
